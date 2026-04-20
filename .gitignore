@@ -1,0 +1,8 @@
+tmp/
+dist/
+node_modules/
+*.log
+*.asar
+*.bak
+*.orig
+*.rej
