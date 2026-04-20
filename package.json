@@ -1,0 +1,16 @@
+{
+  "name": "codex-global-history-sidebar-patch",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Non-official patch tooling for Codex Desktop sidebar global local history.",
+  "type": "commonjs",
+  "scripts": {
+    "test": "node --test",
+    "apply": "node scripts/apply_patch.js",
+    "restore": "node scripts/restore_patch.js",
+    "verify": "node scripts/verify_patch.js"
+  },
+  "devDependencies": {
+    "asar": "^3.2.0"
+  }
+}
