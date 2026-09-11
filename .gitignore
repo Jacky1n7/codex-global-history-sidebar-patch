@@ -6,3 +6,6 @@ node_modules/
 *.bak
 *.orig
 *.rej
+main-*.js
+product-name-*.js
+browser-sidebar-comment-preload.js
